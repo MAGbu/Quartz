@@ -1,0 +1,1 @@
+<center><div style="position: relative; <?php if (strstr($_SERVER['HTTP_USER_AGENT'],"Mozilla")) echo 'top:-15px;'; ?>	background: url(<? print($rootpath."images/Footer.jpg"); ?>); width: 945px; height: 100px;"></div></center>
